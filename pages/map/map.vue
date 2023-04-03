@@ -12,7 +12,7 @@
                  :markers="covers">
             </map>
         </view>
-        <!-- 登录提示 -->
+        <!-- 登录提1111111示 -->
 		<coreshop-login-modal></coreshop-login-modal>
     </view>
 </template>

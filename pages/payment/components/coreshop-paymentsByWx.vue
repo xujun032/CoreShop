@@ -17,7 +17,7 @@
                         </view>
                     </view>
                     <view class="action">
-                        <u-tag text="选择此支付方式" mode="dark" type="error" shape="circle" />
+                        <u-tag text="选择此支付方式吧" mode="dark" type="error" shape="circle" />
                     </view>
                 </view>
             </button>
